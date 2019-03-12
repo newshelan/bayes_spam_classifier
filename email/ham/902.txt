@@ -1,0 +1,1 @@
+ham,Ya but it cant display internal subs so i gotta extract them

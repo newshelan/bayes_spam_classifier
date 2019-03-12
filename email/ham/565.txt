@@ -1,0 +1,1 @@
+ham,Your account has been refilled successfully by INR  DECIMAL . Your KeralaCircle prepaid account balance is Rs  DECIMAL . Your Transaction ID is KR # .
